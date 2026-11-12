@@ -44,19 +44,8 @@ The full report, including the observation table, calculations, answers to the r
 COMPUTER-NETWORK-LAB/
 ├── README.md
 └── skill-1/
-    ├── CN-Skill-1.pdf          # Final skill record
-    ├── CN-Skill-1.html         # Printable source of the report
-    ├── capture/
-    │   └── relevant_frames.pcapng   # Frames 1, 292, 395 and 397 from the capture
-    └── screenshots/
-        ├── welcome.png         # Wireshark interface list
-        ├── tcp_main.png        # tcp filter, frame 1 selected
-        ├── tcp_details.png     # Ethernet II, IPv4 and TCP headers
-        ├── udp_main.png        # udp filter, frame 292 selected
-        └── udp_details.png     # UDP and DNS headers
+    └── CN-Skill-1.pdf          # Final skill record
 ```
-
-`relevant_frames.pcapng` contains the two packets analysed in the report (TCP data packet and UDP DNS query), the DNS response, and a TCP SYN packet with options. It can be opened in Wireshark with **File → Open**.
 
 ---
 
@@ -76,4 +65,4 @@ COMPUTER-NETWORK-LAB/
 
 - The report follows the laboratory manual for Skill 1.
 - All packet values in the report were recorded from a live capture on the local machine, not from sample data.
-- The complete 30-second capture (28,663 packets) is kept locally and is not committed because of its size; the extracted frames needed to reproduce the observations are included above.
+- The complete 30-second capture (28,663 packets) is kept locally and is not committed because of its size.
