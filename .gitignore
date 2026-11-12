@@ -1,0 +1,11 @@
+# Full packet capture is kept locally (large file); an extract is committed.
+skill-1/capture/wifi_capture.pcapng
+
+# OS metadata
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
