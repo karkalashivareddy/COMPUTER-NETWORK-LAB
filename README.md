@@ -1,4 +1,4 @@
-# Computer Networks and Network Programming Lab
+﻿# Computer Networks and Network Programming Lab
 
 Skill record for the **Computer Networks and Network Programming** laboratory course, B.Tech. CSE, Trimester 5, KL University, Bachupally Campus, Hyderabad.
 
@@ -17,7 +17,7 @@ Skill record for the **Computer Networks and Network Programming** laboratory co
 
 | Skill | Title | Focus | Report |
 |:---:|---|---|---|
-| 1 | Encapsulation Builder | Ethernet, IPv4 and TCP/UDP header overhead; payload efficiency | [CN-Skill-1.pdf](skill-1/CN-Skill-1.pdf) |
+| 1 | Encapsulation Builder | Ethernet, IPv4 and TCP/UDP header overhead; payload efficiency | [CN-Skill-1.pdf](SKILL/CN-Skill-1.pdf) |
 
 ---
 
@@ -34,7 +34,7 @@ Packets were captured on the Wi-Fi interface with Wireshark for 30 seconds while
 | Payload | 1412 bytes | 32 bytes |
 | Payload efficiency | 96.32% | 43.24% |
 
-The full report, including the observation table, calculations, answers to the review questions and conclusion, is available in [skill-1/CN-Skill-1.pdf](skill-1/CN-Skill-1.pdf).
+The full report, including the observation table, calculations, answers to the review questions and conclusion, is available in [SKILL/CN-Skill-1.pdf](SKILL/CN-Skill-1.pdf).
 
 ---
 
@@ -43,7 +43,7 @@ The full report, including the observation table, calculations, answers to the r
 ```
 COMPUTER-NETWORK-LAB/
 ├── README.md
-└── skill-1/
+└── SKILL/
     └── CN-Skill-1.pdf          # Final skill record
 ```
 
