@@ -125,6 +125,20 @@ A compact, engineering-oriented body of work on **how packets actually behave** 
 
 ---
 
+## Certifications
+
+**Cisco Networking Academy** · KL University Hyderabad · Shiva Reddy Karkala · completed 20 Nov 2026
+
+| # | Course | Cert ID | Evidence |
+|:---:|---|---|---|
+| 01 | CCNA: Introduction to Networks | `74b34be8-94ad-421a-8f97-5884afeb11ef` | [Certificate](certificates/CCNA-Introduction-to-Networks.pdf) |
+| 02 | CCNA: Switching, Routing, and Wireless Essentials | `cea07609-f610-4e2f-ae91-1d81cb26e5a8` | [Certificate](certificates/CCNA-Switching-Routing-and-Wireless-Essentials.pdf) |
+| 03 | CCNA: Enterprise Networking, Security, and Automation | `430bbf6f-619f-4086-8254-50cee53cd3b0` | [Certificate](certificates/CCNA-Enterprise-Networking-Security-and-Automation.pdf) |
+
+Full index and file-integrity hashes: [`certificates/README.md`](certificates/README.md).
+
+---
+
 ## Measured Signals
 
 <div align="center">
@@ -290,6 +304,11 @@ COMPUTER-NETWORK-LAB/
 ├── README.md                       # animated engineering dashboard
 ├── assets/
 │   └── klh_header.jpeg             # institutional banner embedded in reports
+├── certificates/
+│   ├── README.md                   # credential index and SHA-256 hashes
+│   ├── CCNA-Introduction-to-Networks.pdf
+│   ├── CCNA-Switching-Routing-and-Wireless-Essentials.pdf
+│   └── CCNA-Enterprise-Networking-Security-and-Automation.pdf
 └── SKILL/
     ├── CN-Skill-1.pdf              # encapsulation builder
     ├── CN-Skill-2.pdf              # three-point capture
@@ -297,7 +316,7 @@ COMPUTER-NETWORK-LAB/
     └── CN-Skill-4.pdf              # percentiles, BDP & buffer analysis
 ```
 
-> Raw packet captures are intentionally kept outside version control because of file size; only final reports and the shared banner asset are tracked. No synthetic terminal panels are used anywhere in the evidence set.
+> Raw packet captures are intentionally kept outside version control because of file size; final reports, the shared banner asset and the CCNA certificate PDFs are tracked. No synthetic terminal panels are used anywhere in the evidence set.
 
 ---
 
